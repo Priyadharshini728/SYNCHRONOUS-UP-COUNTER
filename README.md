@@ -79,3 +79,5 @@ RegisterNumber: 24900019
 **TRUTH TABLE**
 
 **RESULTS**
+
+Hence implemented 4 bit synchronous up counter and validate functionality.
